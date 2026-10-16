@@ -1,4 +1,4 @@
-# COMPUTACION EN LA NUBE
+# Computación en la nube
 
 ## [Repositorio GitHub](https://github.com/hectorbafer/cloud_2026_hbf)
 
