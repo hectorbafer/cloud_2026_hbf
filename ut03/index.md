@@ -3,5 +3,6 @@
 ### [PR0302: Volúmenes EBS y clonación de AMIs](pr0302/pr0302.md)
 ### [PR0303: Arquitectura web redundante](pr0303/pr0303.md)
 ### [PR0304: Despliegue de servicios en contenedores con Amazon ECS sobre AWS Fargate](pr0304/pr0304.md)
+### [PR0305: Cómputo orientado a eventos con AWS Lambda y Amazon S3](pr0305/pr0305.md)
 
 [Volver a la página principal](../index.md)
